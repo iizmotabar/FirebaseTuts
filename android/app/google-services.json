@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "519407569844",
+    "project_id": "authrevision",
+    "storage_bucket": "authrevision.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:519407569844:android:e76db8642f8f578d4280e1",
+        "android_client_info": {
+          "package_name": "com.example.auth_revision"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "519407569844-9idm8vej2p1c89hn28dqos2nqi85p7kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBojptojevDEHgVPrD6alpoZ8d2XmBAXnY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "519407569844-9idm8vej2p1c89hn28dqos2nqi85p7kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
