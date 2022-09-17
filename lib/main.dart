@@ -20,14 +20,14 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       debugShowCheckedModeBanner: false,
-      title: 'Brew App',
+      title: 'Firebase Authentication Tutorial',
       theme: ThemeData(
         primarySwatch: Colors.deepOrange,
       ),
       initialRoute: '/',
       routes: {
         '/': (context) => const Wrapper(),
-        '/home': (context) => const HomeScreen(),
+        '/homescreen': (context) => const HomeScreen(),
       },
     );
   }
